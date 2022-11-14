@@ -115,13 +115,6 @@ main {
     padding: 15px;
     
 }
-.contenido_dos img {
-    width: 150px;
-    height: 100px;
-    filter: blur(1px);
-    
-    border-radius: 3px 3px 3px 3px;
-    border: .5px solid #fff;
-}
+
   
   
