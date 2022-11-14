@@ -116,9 +116,9 @@ main {
     
 }
 .contenido_dos img {
-    width: 350px;
-    height: 200px;
-    filter: blur(2px);
+    width: 150px;
+    height: 100px;
+    filter: blur(1px);
     
     border-radius: 3px 3px 3px 3px;
     border: .5px solid #fff;
