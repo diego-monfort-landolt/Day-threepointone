@@ -104,7 +104,7 @@ main {
   .contenido {
     display: flex;
     background-color: rgba(117, 115, 115, 0.511);
-    padding: 15px;
+    padding: 15px 80px;
     box-shadow: 10px 25px 15px rgba(17, 17, 17, 0.24) inset;
     color: white;
     flex-wrap: wrap;
@@ -114,6 +114,14 @@ main {
 .contenido_dos{
     padding: 15px;
     
+}
+.contenido_dos img {
+    width: 350px;
+    height: 200px;
+    filter: blur(2px);
+    align-items: center;
+    border-radius: 3px 3px 3px 3px;
+    border: .5px solid #fff;
 }
   
   
