@@ -112,8 +112,18 @@ main {
 
 
 .contenido_dos{
-    padding: 15px;
+   margin: 10px;
+   padding: 15px;
+   font-size: 15px;
+   border-radius: 25px 0px 25px 0px;
+   background-color: rgba(255, 0, 0, 0.381);
     
+}
+.contenido_dos h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
   
